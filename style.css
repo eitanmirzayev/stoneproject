@@ -1,0 +1,139 @@
+ .top-container{
+    background-image: url('./freepik-export-20241003105147ak4p.jpeg');
+    background-size: cover; /* or contain */
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    margin-bottom: 0px;
+    height: 670px;
+    
+}
+
+
+.title {
+    color: #232526;
+    padding-top: 230px;
+    text-align: center;
+}
+
+.title1 {
+    font-size: 90px;
+    font-family:"Playwrite FR Moderne", cursive;
+}
+.titl2 {
+    font-size: 35px;
+    font-family: Montserrat, sans-serif;
+}
+.about-me {
+    display: block;
+    text-align: center;
+    padding-top: 30px;
+}
+.hi {
+    font-family:"Playwrite FR Moderne", cursive;
+}
+.as{
+    font-family: Montserrat, sans-serif;
+}
+.profile {
+    width: 250px; 
+    height: 250px;
+    border-radius: 50%;
+    object-fit:fill;
+    text-align: center;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+}
+
+.web {
+    border-radius:25px;
+    height: 220px;
+    width: 250px;
+}
+
+.chopper {
+    border-radius:25px;
+    height: 200px;
+    width: 250px;   
+}
+
+.my {
+    text-align: center;
+    padding-top:80px;
+    font-size: 40px;
+    font-family:"Playwrite FR Moderne", cursive;
+}
+
+h3 ,h2 {
+    font-family: Montserrat, sans-serif;
+}
+
+p {
+   font-family:Arial, Helvetica, sans-serif; 
+}
+
+.br {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.contact-me {
+    display: block;
+    text-align: center;
+}
+
+.btn {
+    background-color:#F9F7EB;
+    border: 2px solid black;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    border-radius: 15px;
+    text-decoration: none;
+    padding: 10px 20px 10px 20px;
+    color:#899C9A;
+}
+.but {
+    margin-top: 30px;
+    margin-bottom: 0px;
+    padding-bottom: 70px;
+}
+
+.bottom-container  {
+    background-image: url('./freepik-export-2024100313211330QM.jpeg');
+    background-size: cover; /* or contain */
+    background-position: center;
+    background-repeat: no-repeat;
+    height:300px;
+    text-align: center;
+}
+.copyright {
+    margin-bottom: 0px;
+    padding-bottom: 5px;
+}
+
+.footer-link {
+  font-size: 20px;
+  color: #232526;
+  text-decoration: none;
+  padding:10px 5px;
+}
+.copyright {
+    font-size: 15px;
+    padding: 20px 0;
+  }
+
+.middle-container {
+    background-image: url('./freepik-export-20241003140121syNU.jpeg');
+    background-size: cover; /* or contain */
+    background-position: center;
+    background-repeat: no-repeat;
+}
